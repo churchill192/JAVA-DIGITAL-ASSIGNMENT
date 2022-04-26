@@ -6,4 +6,4 @@ It is a tree data structure where each non-leaf node is a hash of it’s child n
 It maintains data integrity and uses hash functions for this purpose. 
 
 ### Architecture
-![Architecture of Merkle Tree](C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\MerkleTree-min-1024x512.png) 
+![Architecture of Merkle Tree](C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\image.jpg) 
