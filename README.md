@@ -7,4 +7,4 @@ It maintains data integrity and uses hash functions for this purpose.
 
 ### Architecture
 ![Architecture of Merkle Tree](C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\image.jpg) 
-<img src="C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\image.jpg" width=800 />
+<img src="C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\image.jpg" width="800" />
