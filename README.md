@@ -26,6 +26,10 @@ These mathematical algorithms with the above properties are also known as Hash F
 Merkle Tree Implementation in Java:
 In this example implementation, We are going to implement binary merkle tree. As the first step, let's define the node. Like a regular tree, it has a  data field to store the hash and left and right pointers to point to left  child and right child of the binary tree.
 
+### Reference:
+https://www.pranaybathini.com/2021/05/merkle-tree.html
+
+
 
 
 
