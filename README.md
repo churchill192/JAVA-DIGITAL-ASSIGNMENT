@@ -22,7 +22,7 @@ These mathematical algorithms with the above properties are also known as Hash F
 ### Architecture
 ![Architecture of Merkle Tree](C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\image.jpg) 
 
-![Architecture of Merkle Tree](C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\image.jpg) 
+![Architecture of Merkle Tree]("C:\Users\churchill\Documents\GitHub\JAVA-DIGITAL-ASSIGNMENT\Hash_Tree.png") 
 
 ### Merkle Tree Implementation in Java
 Merkle Tree Implementation in Java:
