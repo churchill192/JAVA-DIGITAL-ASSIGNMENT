@@ -29,20 +29,22 @@ In this example implementation, We are going to implement binary merkle tree. As
 
 CODE:
 
-package com.merkle.tree.implementation;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
-public class MerkleTree {
+    package com.merkle.tree.implementation;
+    import java.util.ArrayList;
+    import java.util.LinkedList;
+    import java.util.Queue;
+    
+    public class MerkleTree 
+    {   
 
-    public static Node generateTree(ArrayList<String> dataBlocks) {
-        ArrayList<Node> childNodes = new ArrayList<>();
+        public static Node generateTree(ArrayList<String> dataBlocks) {
+            ArrayList<Node> childNodes = new ArrayList<>();
 
-        for (String message : dataBlocks) {
-            childNodes.add(new Node(null, null, HashAlgorithm.generateHash(message)));
-        }
+            for (String message : dataBlocks) {
+                childNodes.add(new Node(null, null, HashAlgorithm.generateHash(message)));
+            }
 
-        return buildTree(childNodes);
+            return buildTree(childNodes);
     }
 
     private static Node buildTree(ArrayList<Node> children) {
