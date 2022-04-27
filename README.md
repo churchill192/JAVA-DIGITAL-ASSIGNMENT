@@ -1,5 +1,5 @@
 # JAVA DIGITAL ASSIGNMENT
-## CHURCHILL SUDHARSAN PAUL (20BCE0479)
+## CHURCHILL SUDHARSAN PAUL G (20BCE0479)
 ##                                  Merkle Tree
 ### Introduction
 Merkle tree also known as hash tree is a data structure used for data verification and synchronization. 
